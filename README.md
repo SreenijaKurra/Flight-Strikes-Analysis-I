@@ -14,8 +14,12 @@ If we disect the statistics of impact just like how the wildlife gets squashed a
 As an analyst, it is great to see datasets that branch large under multiple categories. One of such is this dataset, niche but vast.
 Due to the country commercializing everything, which is great for analysts like me, we have data exclusively to get the damage analysis.
 
-If I am bored of thinking ideas for more git repos, I will complete writing this analysis. For now this is all you get.
+<h2>What's the takeaway?</h2>
 
+
+
+
+<br> <br> <br>
 The display is quite off as I tried embedding Tableau dashboard in this repo, you will not find anything but the poorly presented, smartly designed dashboard. I will copy paste this exact words if I face the same issue with Flight Strike Analysis - II repo. 
 <!DOCTYPE html>
 <html lang="en">
