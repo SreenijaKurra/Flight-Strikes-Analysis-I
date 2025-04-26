@@ -16,7 +16,7 @@ Due to the country commercializing everything, which is great for analysts like 
 
 If I am bored of thinking ideas for more git repos, I will complete writing this analysis. For now this is all you get.
 
-The display is quite off as I tried embedding Tableau dashboard in this repo, you will not find anything but the poorly presented, smartly designed dashboard. I will copy paste this exact words if I face the same issue with FLight Strike Analysis - II repo. 
+The display is quite off as I tried embedding Tableau dashboard in this repo, you will not find anything but the poorly presented, smartly designed dashboard. I will copy paste this exact words if I face the same issue with Flight Strike Analysis - II repo. 
 <!DOCTYPE html>
 <html lang="en">
 <head>
