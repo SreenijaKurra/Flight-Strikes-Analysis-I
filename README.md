@@ -14,9 +14,7 @@ If we disect the statistics of impact just like how the wildlife gets squashed a
 
 <h2>What's the takeaway?</h2>
 As an analyst, it is great to see datasets that branch large under multiple categories. One of such is this dataset, niche but vast.
-Due to the country commercializing everything, which is great for analysts like me, we have data exclusively to get the damage analysis.
-
-Flying has become a common form of transportation now. We cannot really work on reducing the carbon footprint when vacation is everything that's on our mind for long weekends. But poor birds do it for survival in the winters. We've noticed least number of strikes in the months of January and February due to winter migration. And increased strikes in July and August. This is because, once the birds are back, they bring new life into the world and train them how to fly. But knowing when to fly cannot be really taught to younglings. 
+Due to the country commercializing everything, which is great for analysts like me, we have data exclusively to get the damage analysis. Flying has become a common form of transportation now. We cannot really work on reducing the carbon footprint when vacation is everything that's on our mind for long weekends. But poor birds do it for survival in the winters. We've noticed least number of strikes in the months of January and February due to winter migration. And increased strikes in July and August. This is because, once the birds are back, they bring new life into the world and train them how to fly. But knowing when to fly cannot be really taught to younglings. 
 
 The young brids use their newly learnt flying skills to soar near empty spaces, such as the airport runways. This can be prevented by the airport authorities. They can make sure the environment around the airports is not habitable by birds while maintaining green space. This is a difficult option and hard to implement considering various habitat situations.  
 
